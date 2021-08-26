@@ -1,5 +1,7 @@
 # Semantic shift in social networks 
 
+# Data cleaning
+
 This repository contains the research code for the paper [Semantic shift in social networks](https://aclanthology.org/2021.starsem-1.3).
 The paper explores the relationship beetween various community characteristics 
 and the amount of semantic change that takes place in how the community uses words. 
